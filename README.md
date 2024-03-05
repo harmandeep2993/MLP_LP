@@ -1,5 +1,5 @@
 # Laptop Price Prediction using Random Forest Regression Model
-!https://github.com/harmandeep2993/MLP_LP/blob/main/Images/image1.png
+![Image 1](https://github.com/harmandeep2993/MLP_LP/blob/main/Images/image1.png)
 
 #Description:
 

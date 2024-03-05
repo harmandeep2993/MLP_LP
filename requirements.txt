@@ -1,0 +1,7 @@
+Install Streamlit 1.31.1
+        pip install streamlit==1.31.1
+
+Install Scikit-learn 1.2.1
+        pip install scikit-learn==1.2.1
+
+Apart from this install conda base enivornment

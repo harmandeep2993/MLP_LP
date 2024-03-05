@@ -3,7 +3,7 @@
 
 ## Project Description:
 
-This Git repository hosts the code and resources for a laptop price prediction project leveraging a Random Forest Regression model. With an accuracy rate of 87%, this project aims to forecast the prices of laptops based on various features and attributes.
+This Git repository contains the code and materials for an End-to-End laptop price prediction project, utilizing an exceptional model based on Random Forest Regression with an accuracy rate of 87%. The primary objective of this project is to predict laptop prices by considering a range of features and attributes. From a business standpoint, this model holds significant potential for shaping effective pricing and marketing strategies.
 
 Key Features:
 1. **Random Forest Regression Model**: The project employs a Random Forest Regression model, a powerful ensemble learning technique capable of handling large datasets with high dimensionality. It provides robust predictions by aggregating the outputs of multiple decision trees.

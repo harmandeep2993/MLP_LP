@@ -1,4 +1,4 @@
-Title: Laptop Price Prediction using Random Forest Regression Model
+# Laptop Price Prediction using Random Forest Regression Model
 
 Description:
 

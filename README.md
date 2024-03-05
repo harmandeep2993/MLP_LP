@@ -1,7 +1,7 @@
-# Laptop Price Prediction using Random Forest Regression Model
+# Laptop Price Prediction: Random Forest Regression Model
 ![Image 1](https://github.com/harmandeep2993/MLP_LP/blob/main/Images/image1.png)
 
-#Description:
+## Project Description:
 
 This Git repository hosts the code and resources for a laptop price prediction project leveraging a Random Forest Regression model. With an accuracy rate of 87%, this project aims to forecast the prices of laptops based on various features and attributes.
 

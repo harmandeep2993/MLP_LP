@@ -1,9 +1,8 @@
 import streamlit as st
-import pickle
 import numpy as np
-
+import pickle 
 # Load the model and dataframe
-pipe = pickle.load(open('pipe.pkl', 'rb'))
+pipe = pickle .load(open('pipe.pkl', 'rb'))
 df = pickle.load(open('df.pkl', 'rb'))
 
 # Title of the app with custom CSS styling
@@ -93,7 +92,7 @@ with st.container():
     inches = st.selectbox('Screen Size (inches)', df['Inches'].unique(), index=None, placeholder="choose screen size")
     
     # PPI
-    ppi = st.number_input('Pixels Per Inch (PPI)', min_value=50, max_value=1000, step=50)
+    ppi = st.number_input('Pixels Per Inch (PPI)', min_value=100, max_value=400, step=50)
 
     # Prediction button
     if st.button('Predict', key='predict_button'):
